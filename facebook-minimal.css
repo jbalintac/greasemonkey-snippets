@@ -1,0 +1,36 @@
+/* My message */
+._nd_ ._52mr {
+  border-radius: 0 !important;
+  background: none !important;;
+  color: #569cd6 !important;
+  font-family: consolas;
+  font-size: 12px;
+}
+
+.text_align_ltr {
+  text-align: right;
+}
+
+._o46._3i_m ._3058 {
+  float: left;
+  margin-left: 20px;
+}
+
+/* Other message */
+._29_7 ._52mr {
+    border-radius: 0 !important;
+  background: none !important;;
+  color: white !important;
+  font-family: consolas;
+  font-size: 12px;
+}
+
+/* Photo */
+[class="_4ldz _1t_r _p"] {
+  display: none;
+}
+
+/* Background */
+[aria-label="Messages"] {
+  background: black !important;
+}
